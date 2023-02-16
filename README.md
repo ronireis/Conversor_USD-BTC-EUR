@@ -4,12 +4,14 @@
 <h1>Sejam Bem-Vindos! :smiley:</h1>
 <br>
   
-  <h3>Desenvolvi por meio do Curso DevClub o conversor de moedas, ele mostras tres moedas e suas conversões, o BLR converte para o BTC-USD-EUR 
-  foi um desafio proposto pelo professor. Usei tecnologias como CSS, HTML e JavaScrip, fiz uma alteração e acrescentei uma API
-  para pegar os dados atualizados das moedas
-  <h3>para desenvolver esse Programa utilizei as seguintes tecnologias como:<h3>
+  <h3>O presente Conversor de Moedas foi desenvolvido por mim por intermédio do Curso DevClub.
+O professor propôs o desafio de construir um conversor que trabalhasse com quatro moedas diferentes, quais sejam, Real (BLR), Bitcoin (BTC), Dólar (USD) e Euro (EUR).
+Tomei a liberdade de acrescentar uma API, a qual busca o valor atual das moedas.
+
+  <h3>Para desenvolver esse Programa utilizei as seguintes tecnologias como:<h3>
   <br>
   <br>
+  
   
   <h2>ferramentas utilizadas:<h2/>
   
